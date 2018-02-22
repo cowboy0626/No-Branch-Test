@@ -42,12 +42,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "C4EB90EF-FAED-40E0-89C7-DA26B8972AE3"
-    },
-    {
-      "class": "text",
-      "id": "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74"
+      "class": "symbolInstance",
+      "id": "669F8422-068B-4849-A668-CA5F06E8CA31"
     },
     {
       "class": "text",
@@ -55,15 +51,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "24B73DA8-146D-49D5-8795-1EA29C9DD2E2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C4CB33B7-E799-4D7A-93EE-5A47F1601F53"
-    },
-    {
-      "class": "symbolInstance",
       "id": "B1A28CA5-2115-489C-9085-27686F1C3322"
+    },
+    {
+      "class": "group",
+      "id": "9DDFF588-6AC8-4D56-A4A7-D6780A0AA74D"
     }
   ],
   "name": "iPhone 8",

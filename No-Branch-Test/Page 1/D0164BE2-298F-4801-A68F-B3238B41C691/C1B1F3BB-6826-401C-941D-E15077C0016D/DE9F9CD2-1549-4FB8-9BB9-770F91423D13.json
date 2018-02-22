@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "47a75700-17c7-11e8-8746-61e8d7e56b12",
+  "_class": "symbolInstance",
+  "do_objectID": "DE9F9CD2-1549-4FB8-9BB9-770F91423D13",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,39 +13,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 71,
+    "width": 375,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "510335A3-1107-476B-8166-8C8979567959"
-    },
-    {
-      "class": "artboard",
-      "id": "D0164BE2-298F-4801-A68F-B3238B41C691"
-    }
-  ],
-  "name": "Page 1",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "form/input",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,10 +45,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "519191CB-6E51-417F-8157-6BDA62AD008B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
 }
