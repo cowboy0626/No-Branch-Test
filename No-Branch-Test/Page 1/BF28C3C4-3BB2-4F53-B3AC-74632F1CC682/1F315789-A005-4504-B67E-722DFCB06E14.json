@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3B2655DD-643A-46D3-A1EA-C40A64FC48A0",
+  "do_objectID": "1F315789-A005-4504-B67E-722DFCB06E14",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -33,13 +33,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8E246A47-291C-4807-B36B-190252AE335F",
       "overrideName": "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74_stringValue",
-      "value": "Join"
+      "value": "Login Fail"
     }
   ],
   "overrides": {
-    "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74": "Join"
+    "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74": "Login Fail"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

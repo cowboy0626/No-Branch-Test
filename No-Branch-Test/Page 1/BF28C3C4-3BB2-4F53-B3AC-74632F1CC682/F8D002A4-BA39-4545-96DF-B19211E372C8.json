@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3B2655DD-643A-46D3-A1EA-C40A64FC48A0",
+  "do_objectID": "F8D002A4-BA39-4545-96DF-B19211E372C8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 75,
+    "height": 77,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 590
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,18 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "frame/title",
+  "name": "button/action",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "8E246A47-291C-4807-B36B-190252AE335F",
-      "overrideName": "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74_stringValue",
-      "value": "Join"
-    }
   ],
   "overrides": {
-    "68D0C7F8-1EF6-4024-BDF9-D3A78198AB74": "Join"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,7 +45,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0F69BF29-4F7B-4C98-A17D-F86FCED4A802",
+  "symbolID": "FB267A5B-972A-41C8-A211-C44B55CECC5D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

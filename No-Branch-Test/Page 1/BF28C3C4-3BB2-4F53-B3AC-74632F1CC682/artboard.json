@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "D0164BE2-298F-4801-A68F-B3238B41C691",
+  "do_objectID": "BF28C3C4-3BB2-4F53-B3AC-74632F1CC682",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 707,
+    "x": 1182,
     "y": 4
   },
   "hasBackgroundColor": false,
@@ -43,23 +43,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "3B2655DD-643A-46D3-A1EA-C40A64FC48A0"
+      "id": "1F315789-A005-4504-B67E-722DFCB06E14"
     },
     {
       "class": "text",
-      "id": "D0B40158-BDC2-49A7-A23A-CBD188FF2DD8"
+      "id": "B5754D60-42A8-486C-9CE5-EEF696B2F949"
     },
     {
       "class": "symbolInstance",
-      "id": "1E8F9076-509F-4733-9452-040D1A6B3407"
+      "id": "F8D002A4-BA39-4545-96DF-B19211E372C8"
     },
     {
       "class": "group",
-      "id": "C1B1F3BB-6826-401C-941D-E15077C0016D"
+      "id": "ECEDF157-35EA-4096-8AB9-67820BB04263"
     }
   ],
-  "name": "iPhone 8 Copy",
-  "nameIsFixed": false,
+  "name": "Login Fail",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
